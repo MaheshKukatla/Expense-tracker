@@ -1,3 +1,6 @@
+'''
+ Hi, This is Mahesh Kukatla. i have done this project using Python Tkinter. Here user can add his different expenses by selecting his currency.user can add ,delete and save the expenses.
+''''
 
 import tkinter as tk
 from tkinter import messagebox, ttk
